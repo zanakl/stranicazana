@@ -1,0 +1,16 @@
+body
+{ background-color: lightskyblue;}
+
+p{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+}
+p.citat{
+    font-style:italic;
+    font-size: 12px;
+    border: 1px solid #000;
+    background-color: #ffffcc;
+}
+
+<p>Lorem ipsum...
+<p class="citat">Lorem ipsum... 
