@@ -2,7 +2,7 @@ body
 { background-color: lightskyblue;}
 
 p{
-    font-family: Verdana, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
 }
 p.citat{
@@ -11,6 +11,7 @@ p.citat{
     border: 1px solid #000;
     background-color: #ffffcc;
 }
+
 
 div.prvi{
     color: #000;
@@ -22,5 +23,12 @@ div.drugi{
 }
 div.treci{
     text-align: right;
+    font-style: italic;
     
+}
+
+h1{
+    color:blue;
+    font-weight: bold;
+    font-size: xx-large;
 }
