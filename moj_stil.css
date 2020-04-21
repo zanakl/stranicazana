@@ -11,3 +11,14 @@ p.citat{
     border: 1px solid #000;
     background-color: #ffffcc;
 }
+
+div.prvi{
+    color: #000;
+}
+div.drugi{
+    text-align: center;
+    color: firebrick;
+}
+div.treci{
+    text-align: right;
+}
