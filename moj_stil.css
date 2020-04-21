@@ -13,13 +13,14 @@ p.citat{
 }
 
 div.prvi{
-    color: lightsalmon;
+    color: #000;
 }
 div.drugi{
     text-align: center;
     color: firebrick;
+    text-decoration: underline;
 }
 div.treci{
     text-align: right;
-    text-decoration: wavy;
+    
 }
